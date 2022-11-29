@@ -1,0 +1,3 @@
+graphicApi: OpenGl
+windowWidth: 1800
+windowHeight: 900
