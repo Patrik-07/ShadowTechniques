@@ -15,7 +15,7 @@ Used technologies:
    - OpenGL
    - SDL2
    - Assimp
-   - Imgui
+   - ImGui
    - GLM
 
 ## Engine overview
