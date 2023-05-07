@@ -9,6 +9,13 @@ Supports:
    - forward and deferred rendering
    - multiple render window targets (FramwBuffers)
    - Custom uniform setting system
+   
+Used technologies:
+   - C++
+   - OpenGL
+   - SDL2
+   - Assimp
+   - Imgui
 
 ## Engine overview
 ![Kép1](https://user-images.githubusercontent.com/60797275/236704925-d2d2c468-614c-4bf0-97b5-1b434e26cc1c.png)
